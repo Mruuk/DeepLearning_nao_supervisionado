@@ -1,0 +1,8 @@
+Foi realizado um teste onde foi, comparado os resultados com e sem a utilização de RBM aplicado em uma rede neural densa.
+
+No geral a redução de dimensionamento de imagem, gera bons resultados, mas para esse caso, foi o opósto, tivemos uma precisão para o RBM mais MLPClassifier, foi equivalente à 0.95 ou 95% de accuracy, o que é um bom valor de acertividade, porém, quando realizado o treinamento sem o RBM, tivemos uma precisão de 0,98 ou 98% de accuracy, 3% de diferença. Notado que nem sempre utilizar o método de redução de dimensionalidade de imagem nem sempre lhe trará bons resultados.
+
+
+Esse teste foi utilizando a base de dados MNIST
+
+Para acessar a documentação:
