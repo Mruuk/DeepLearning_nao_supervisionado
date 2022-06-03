@@ -76,4 +76,5 @@ autoencoder.add(Flatten())
 
 autoencoder.add(Reshape((4,4,8)))
 ```
+
 ![convolutional](/img/convolutional_encoder.png)
