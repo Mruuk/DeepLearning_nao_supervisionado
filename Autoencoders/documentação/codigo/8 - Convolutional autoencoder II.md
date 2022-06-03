@@ -220,4 +220,4 @@ for i, indice_imagem in enumerate(imagens_teste):
     plt.yticks(())
 ```
 
-### note que como fizemos um treinamento com poucas épocas, nosse algoritimo não foi tão preciso assim, mas realizando um treinamento com pelo menos 100 épocas, já trará resultados bem melhores, sendo até mais interessante que as abordagens dos casos anteriores
+### note que como fizemos um treinamento com poucas épocas, nosse algoritimo não foi tão preciso assim, mas realizando um treinamento com pelo menos 100 épocas, já trará resultados bem melhores, sendo até mais interessante que as abordagens dos casos anteriores, porém demanda de um poder computacional bem maior do que as abordagens dos casos anteriores
